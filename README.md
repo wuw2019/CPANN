@@ -1,12 +1,12 @@
 ## Clinical Pain Expression of Children (CPEC) dataset
 
--Download and unzip the dataset from the official github page. ([CPEC])
+-Download and unzip the dataset from [here]()
 <br/>You will have the structure as follows:
 ```
 path/to/your/CPEC/
 |-- data/
-|   |-- info/
-|   |-- info/
+|   |-- 1_boy_8_1/
+|   |-- 2_girl_3_1/
 |   |...
 |-- info/
 |   |-- train.txt
