@@ -1,7 +1,7 @@
 ## Clinical Pain Expression of Children (CPEC) dataset
 
--Download and unzip the dataset from [here]()
-<br/>You will have the structure as follows:
+Download and unzip the dataset from [here]() (password:).
+You will have the structure as following:
 ```
 path/to/your/CPEC/
 |-- data/
@@ -12,3 +12,5 @@ path/to/your/CPEC/
 |   |-- train.txt
 |   |-- test.txt
 ```
+
+The code is coming soon ...
